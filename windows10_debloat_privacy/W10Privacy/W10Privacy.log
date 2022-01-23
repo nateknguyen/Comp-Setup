@@ -1,0 +1,436 @@
+2022-01-17  19:04:23,362 : ________
+2022-01-17  19:04:23,362 : W10Privacy wird gestartet v.3.8.0.0 im GUI-Modus - WIN_10 [20H2] 
+2022-01-17  19:04:23,362 : W10Privacy wurde über den Benutzer <nate> gestartet.
+2022-01-17  19:04:23,362 : Kein Administrator-Kontext vorhanden, das Programm kann nur benutzerspezifische Einstellungen ändern.
+2022-01-17  19:04:23,493 : Ermittlung der Aufgaben wird gestartet ...
+2022-01-17  19:04:23,710 : Ermittlung der Aufgaben abgeschlossen.
+2022-01-17  19:04:23,710 : Ermittlung der Benutzer-Apps wird gestartet ...
+2022-01-17  19:04:30,047 : Ermittlung der Benutzer-Apps abgeschlossen.
+2022-01-17  19:04:30,048 : Ermittlung der Firewallregeln wird gestartet ...
+2022-01-17  19:04:30,410 : Ermittlung der Firewallregeln abgeschlossen.
+2022-01-17  19:04:38,341 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2022-01-17  19:04:38,737 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2022-01-17  19:04:44,964 : W10Privacy wird beendet.
+2022-01-17  19:04:48,270 : ________
+2022-01-17  19:04:48,270 : W10Privacy wird gestartet v.3.8.0.0 im GUI-Modus - WIN_10 [20H2] 
+2022-01-17  19:04:48,286 : W10Privacy wurde über den Benutzer <nate> gestartet.
+2022-01-17  19:04:48,286 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2022-01-17  19:04:48,411 : Ermittlung der Aufgaben wird gestartet ...
+2022-01-17  19:04:48,643 : Ermittlung der Aufgaben abgeschlossen.
+2022-01-17  19:04:48,643 : Ermittlung der Benutzer-Apps wird gestartet ...
+2022-01-17  19:04:54,927 : Ermittlung der Benutzer-Apps abgeschlossen.
+2022-01-17  19:04:54,927 : Ermittlung der Firewallregeln wird gestartet ...
+2022-01-17  19:04:55,158 : Ermittlung der Firewallregeln abgeschlossen.
+2022-01-17  19:05:02,743 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2022-01-17  19:05:03,135 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2022-01-17  19:08:36,649 : Bearbeite Aktions-ID <_aktivitaetsverlauf>
+2022-01-17  19:08:36,665 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\EnableActivityFeed -> 0
+2022-01-17  19:08:36,665 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\UploadUserActivities -> 0
+2022-01-17  19:08:36,665 : Bearbeite Aktions-ID <_experimente>
+2022-01-17  19:08:36,665 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\PolicyManager\current\device\System\AllowExperimentation -> 0
+2022-01-17  19:08:36,665 : Bearbeite Aktions-ID <_anwendungstelemetrie>
+2022-01-17  19:08:36,665 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat\AITEnable -> 0
+2022-01-17  19:08:36,680 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat\AllowTelemetry -> 0
+2022-01-17  19:08:36,680 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection\AllowTelemetry -> 0
+2022-01-17  19:08:36,680 : Bearbeite Aktions-ID <_kundenzufriedenheit>
+2022-01-17  19:08:36,680 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\SQMClient\Windows\CEIPEnable -> 0
+2022-01-17  19:08:36,696 : Bearbeite Aktions-ID <_benutzeraktivitaeten>
+2022-01-17  19:08:36,696 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\PublishUserActivities -> 0
+2022-01-17  19:08:36,696 : Bearbeite Aktions-ID <_sprachliste>
+2022-01-17  19:08:36,696 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Control Panel\International\User Profile\HttpAcceptLanguageOptOut -> 1
+2022-01-17  19:08:36,696 : Bearbeite Aktions-ID <_spracherkennung>
+2022-01-17  19:08:36,696 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Personalization\Settings\AcceptedPrivacyPolicy -> 0
+2022-01-17  19:08:36,712 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\InputPersonalization\RestrictImplicitTextCollection -> 1
+2022-01-17  19:08:36,712 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Personalization\Settings\RestrictImplicitInkCollection -> 1
+2022-01-17  19:08:36,712 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\InputPersonalization\TrainedDataStore\HarvestContacts -> 0
+2022-01-17  19:08:36,712 : Bearbeite Aktions-ID <_feedback>
+2022-01-17  19:08:36,712 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Siuf\Rules\NumberOfSIUFInPeriod -> 0
+2022-01-17  19:08:36,712 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Siuf\Rules\PeriodInNanoSeconds -> 0
+2022-01-17  19:08:36,727 : Bearbeite Aktions-ID <_diagnose>
+2022-01-17  19:08:36,727 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection\AllowTelemetry -> 0
+2022-01-17  19:08:36,727 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack\DiagTrackAuthorization -> 7
+2022-01-17  19:08:36,734 : Bearbeite Aktions-ID <_startmenu_vorschlaege>
+2022-01-17  19:08:36,734 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SubscribedContent-338388Enabled -> 0
+2022-01-17  19:08:36,734 : Bearbeite Aktions-ID <_kamera_sperrbildschirm>
+2022-01-17  19:08:36,734 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Personalization\NoLockScreenCamera -> 1
+2022-01-17  19:08:36,749 : Bearbeite Aktions-ID <_autologger>
+2022-01-17  19:08:36,749 : Registrierungsschlüssel wird gesetzt HKLM\SYSTEM\ControlSet001\Control\WMI\AutoLogger\AutoLogger-Diagtrack-Listener\Start -> 0
+2022-01-17  19:08:36,749 : Registrierungsschlüssel wird gesetzt HKLM\SYSTEM\CurrentControlSet\Control\WMI\AutoLogger\AutoLogger-Diagtrack-Listener\Start -> 0
+2022-01-17  19:08:36,749 : Bearbeite Aktions-ID <_inventory>
+2022-01-17  19:08:36,749 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat\DisableInventory -> 1
+2022-01-17  19:08:36,765 : Bearbeite Aktions-ID <_kennwortanzeige>
+2022-01-17  19:08:36,765 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\CredUI\DisablePasswordReveal -> 1
+2022-01-17  19:08:36,765 : Bearbeite Aktions-ID <_WindowsMediaDRM>
+2022-01-17  19:08:36,765 : Registrierungsschlüssel wird gesetzt HKLM\Software\Policies\Microsoft\WMDRM\DisableOnline -> 1
+2022-01-17  19:08:36,765 : Bearbeite Aktions-ID <_Defender_Sicherheitsprobleme>
+2022-01-17  19:08:36,781 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet\SpyNetReporting -> 0
+2022-01-17  19:08:36,781 : Bearbeite Aktions-ID <_Defender_Beispiele>
+2022-01-17  19:08:36,781 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet\SubmitSamplesConsent -> 2
+2022-01-17  19:08:36,781 : Bearbeite Aktions-ID <_MRT_Schadsoftware>
+2022-01-17  19:08:36,781 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\MRT\DontReportInfectionInformation -> 1
+2022-01-17  19:08:36,796 : Bearbeite Aktions-ID <_fehlerberichterstattung>
+2022-01-17  19:08:36,796 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\Disabled -> 1
+2022-01-17  19:08:36,796 : Bearbeite Aktions-ID <_memory_dumps>
+2022-01-17  19:08:36,796 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\AutoApproveOSDumps -> 0
+2022-01-17  19:08:36,812 : Bearbeite Aktions-ID <_wer_additional_data>
+2022-01-17  19:08:36,812 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\DontSendAdditionalData -> 1
+2022-01-17  19:08:36,812 : Bearbeite Aktions-ID <_handschriftendaten>
+2022-01-17  19:08:36,812 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\TabletPC\PreventHandwritingDataSharing -> 1
+2022-01-17  19:08:36,828 : Bearbeite Aktions-ID <_handschriftenerkennung_fehlerbericht>
+2022-01-17  19:08:36,828 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\HandwritingErrorReports\PreventHandwritingErrorReports -> 1
+2022-01-17  19:08:36,834 : Bearbeite Aktions-ID <_abruf_metadaten>
+2022-01-17  19:08:36,834 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Device Metadata\PreventDeviceMetadataFromNetwork -> 1
+2022-01-17  19:08:36,834 : Bearbeite Aktions-ID <_abgleich_einstellungen_mit_cloud>
+2022-01-17  19:08:36,834 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\SettingSync\DisableSettingSync -> 2
+2022-01-17  19:08:36,834 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\SettingSync\DisableSettingSyncUserOverride -> 1
+2022-01-17  19:08:36,850 : Bearbeite Aktions-ID <_notification_on_diagnostic_data_level>
+2022-01-17  19:08:36,850 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection\DisableTelemetryOptInChangeNotification -> 1
+2022-01-17  19:08:36,850 : Bearbeite Aktions-ID <_timeline_vorschlaege>
+2022-01-17  19:08:36,850 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SubscribedContent-353698Enabled -> 0
+2022-01-17  19:08:36,865 : Bearbeite Aktions-ID <_app_installation>
+2022-01-17  19:08:36,865 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SilentInstalledAppsEnabled -> 0
+2022-01-17  19:08:36,865 : Bearbeite Aktions-ID <_app_installation_benutzer>
+2022-01-17  19:08:36,865 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SilentInstalledAppsEnabled -> 0
+2022-01-17  19:08:36,865 : Bearbeite Aktions-ID <_app_push_install>
+2022-01-17  19:08:36,865 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PushToInstall\DisablePushToInstall -> 1
+2022-01-17  19:08:36,881 : Bearbeite Aktions-ID <_werbungs_id_global>
+2022-01-17  19:08:36,881 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AdvertisingInfo\DisabledByGroupPolicy -> 1
+2022-01-17  19:08:36,881 : Bearbeite Aktions-ID <_ungekoppelte_geraete>
+2022-01-17  19:08:36,881 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\LooselyCoupled\Value -> Deny
+2022-01-17  19:08:36,897 : Bearbeite Aktions-ID <_app_starts_festhalten>
+2022-01-17  19:08:36,897 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Start_TrackProgs -> 0
+2022-01-17  19:08:36,897 : Bearbeite Aktions-ID <_zugriff_auf_kontoinfos>
+2022-01-17  19:08:36,897 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\userAccountInformation\Value -> Deny
+2022-01-17  19:08:36,912 : Bearbeite Aktions-ID <_appzugriff_auf_kontoinfos>
+2022-01-17  19:08:36,912 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\userAccountInformation\Value -> Deny
+2022-01-17  19:08:36,912 : Bearbeite Aktions-ID <_zugriff_auf_kontakte>
+2022-01-17  19:08:36,912 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\contacts\Value -> Deny
+2022-01-17  19:08:36,912 : Bearbeite Aktions-ID <_kontakte>
+2022-01-17  19:08:36,912 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\contacts\Value -> Deny
+2022-01-17  19:08:36,928 : Bearbeite Aktions-ID <_zugriff_auf_kalender>
+2022-01-17  19:08:36,934 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\appointments\Value -> Deny
+2022-01-17  19:08:36,934 : Bearbeite Aktions-ID <_kalender>
+2022-01-17  19:08:36,934 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\appointments\Value -> Deny
+2022-01-17  19:08:36,934 : Bearbeite Aktions-ID <_zugriff_auf_anrufliste>
+2022-01-17  19:08:36,934 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCallHistory\Value -> Deny
+2022-01-17  19:08:36,934 : Bearbeite Aktions-ID <_anrufliste>
+2022-01-17  19:08:36,950 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCallHistory\Value -> Deny
+2022-01-17  19:08:36,950 : Bearbeite Aktions-ID <_zugriff_auf_emails>
+2022-01-17  19:08:36,950 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\email\Value -> Deny
+2022-01-17  19:08:36,950 : Bearbeite Aktions-ID <_emailzugriff>
+2022-01-17  19:08:36,950 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\email\Value -> Deny
+2022-01-17  19:08:36,966 : Bearbeite Aktions-ID <_zugriff_auf_aufgaben>
+2022-01-17  19:08:36,966 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\userDataTasks\Value -> Deny
+2022-01-17  19:08:36,966 : Bearbeite Aktions-ID <_aufgaben>
+2022-01-17  19:08:36,966 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\userDataTasks\Value -> Deny
+2022-01-17  19:08:36,982 : Bearbeite Aktions-ID <_zugriff_auf_messaging>
+2022-01-17  19:08:36,982 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\chat\Value -> Deny
+2022-01-17  19:08:36,982 : Bearbeite Aktions-ID <_messaging>
+2022-01-17  19:08:36,982 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\chat\Value -> Deny
+2022-01-17  19:08:36,982 : System-App entfernen <Microsoft.Messaging> (PackageName:)...
+2022-01-17  19:08:37,081 : Bearbeite Aktions-ID <_zugriff_auf_funkempfang>
+2022-01-17  19:08:37,081 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\radios\Value -> Deny
+2022-01-17  19:08:37,081 : Bearbeite Aktions-ID <_zugriff_auf_diagnosedaten_apps>
+2022-01-17  19:08:37,097 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\appDiagnostics\Value -> Deny
+2022-01-17  19:08:37,097 : Bearbeite Aktions-ID <_diagnosedaten_apps>
+2022-01-17  19:08:37,097 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{2297E4E2-5DBE-466D-A12B-0F8286F0D9CA}\Value -> Deny
+2022-01-17  19:08:37,235 : Firewallregel <Block-Microsoft-IPs-used-for-telemetry-data-delivery-LIGHT-1> wird hinzugefügt.
+2022-01-17  19:08:37,298 : Bearbeite Aktions-ID <_cortana>
+2022-01-17  19:08:37,298 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\AllowCortana -> 0
+2022-01-17  19:08:37,298 : Bearbeite Aktions-ID <_cortana_pos>
+2022-01-17  19:08:37,313 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\AllowSearchToUseLocation -> 0
+2022-01-17  19:08:37,313 : Bearbeite Aktions-ID <_websearch>
+2022-01-17  19:08:37,313 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\ConnectedSearchUseWeb -> 0
+2022-01-17  19:08:37,313 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\DisableWebSearch -> 1
+2022-01-17  19:08:37,313 : Bearbeite Aktions-ID <_websearch_user>
+2022-01-17  19:08:37,313 : Registrierungsschlüssel wird gesetzt HKCU\SOFTWARE\Policies\Microsoft\Windows\Explorer\DisableSearchBoxSuggestions -> 1
+2022-01-17  19:08:37,329 : Bearbeite Aktions-ID <_websearch_cloud>
+2022-01-17  19:08:37,329 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\AllowCloudSearch -> 0
+2022-01-17  19:08:37,335 : Bearbeite Aktions-ID <_wlan_outlook>
+2022-01-17  19:08:37,335 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1753021919-1134960238-14127225-1001\SocialNetworks\ABCH\OptInStatus -> 0
+2022-01-17  19:08:37,335 : Bearbeite Aktions-ID <_wlan_skype>
+2022-01-17  19:08:37,335 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1753021919-1134960238-14127225-1001\SocialNetworks\ABCH-SKYPE\OptInStatus -> 0
+2022-01-17  19:08:37,351 : Bearbeite Aktions-ID <_wlan_facebook>
+2022-01-17  19:08:37,351 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1753021919-1134960238-14127225-1001\SocialNetworks\FACEBOOK\OptInStatus -> 0
+2022-01-17  19:08:37,351 : Bearbeite Aktions-ID <_dieser_pc>
+2022-01-17  19:08:37,351 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\LaunchTo -> 1
+2022-01-17  19:08:37,351 : Bearbeite Aktions-ID <_dateinamenerweiterungen>
+2022-01-17  19:08:37,351 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt -> 0
+2022-01-17  19:08:37,367 : Bearbeite Aktions-ID <_schnellzugriff_ordner>
+2022-01-17  19:08:37,367 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShowFrequent -> 0
+2022-01-17  19:08:37,367 : Bearbeite Aktions-ID <_schnellzugriff_dateien>
+2022-01-17  19:08:37,367 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShowRecent -> 0
+2022-01-17  19:08:37,382 : Bearbeite Aktions-ID <_suchhistorie>
+2022-01-17  19:08:37,382 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer\DisableSearchBoxSuggestions -> 1
+2022-01-17  19:08:37,382 : Bearbeite Aktions-ID <_infos_gestartete_programme_dateien>
+2022-01-17  19:08:37,382 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoInstrumentation -> 1
+2022-01-17  19:08:37,382 : Bearbeite Aktions-ID <_explorer_werbung>
+2022-01-17  19:08:37,382 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSyncProviderNotifications -> 0
+2022-01-17  19:08:37,398 : Bearbeite Aktions-ID <_kontakte_in_taskleiste>
+2022-01-17  19:08:37,398 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\People\PeopleBand -> 0
+2022-01-17  19:08:37,398 : Bearbeite Aktions-ID <_explorer_meet_now>
+2022-01-17  19:08:37,398 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\HideSCAMeetNow -> 1
+2022-01-17  19:08:37,413 : Bearbeite Aktions-ID <_explorer_meet_now_user>
+2022-01-17  19:08:37,413 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\HideSCAMeetNow -> 1
+2022-01-17  19:08:37,413 : Bearbeite Aktions-ID <_explorer_feeds_taskbar>
+2022-01-17  19:08:37,413 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Feeds\EnableFeeds -> 0
+2022-01-17  19:08:37,413 : Bearbeite Aktions-ID <_explorer_feeds_taskbar_user>
+2022-01-17  19:08:37,413 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Feeds\ShellFeedsTaskbarViewMode -> 2
+2022-01-17  19:08:37,429 : Bearbeite Aktions-ID <_Diagnosenachverfolgungsdienst>
+2022-01-17  19:08:37,429 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DiagTrack\Start -> 4
+2022-01-17  19:08:37,436 : Bearbeite Aktions-ID <_diagnosticshub>
+2022-01-17  19:08:37,436 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\diagnosticshub.standardcollector.service\Start -> 4
+2022-01-17  19:08:37,436 : Bearbeite Aktions-ID <_dmwappushsvc>
+2022-01-17  19:08:37,436 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\dmwappushservice\Start -> 4
+2022-01-17  19:08:37,451 : Einstellung <_edge_uninstall> nicht setzbar, es kann kein Schlüssel/Setup ermittelt werden.
+2022-01-17  19:08:37,451 : Edge-Version <97.0.1072.62> ermittelt, Deinstallation wird über Setup.exe in die Wege geleitet.
+2022-01-17  19:08:40,490 : Bearbeite Aktions-ID <_edge_donotupdate>
+2022-01-17  19:08:40,490 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\EdgeUpdate\DoNotUpdateToEdgeWithChromium -> 1
+2022-01-17  19:08:40,490 : Bearbeite Aktions-ID <_edge_donottrack>
+2022-01-17  19:08:40,505 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\ConfigureDoNotTrack -> 1
+2022-01-17  19:08:40,505 : Bearbeite Aktions-ID <_edge_donottrack_user>
+2022-01-17  19:08:40,505 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\ConfigureDoNotTrack -> 1
+2022-01-17  19:08:40,505 : Bearbeite Aktions-ID <_edge_networkprediction>
+2022-01-17  19:08:40,505 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\NetworkPredictionOptions -> 2
+2022-01-17  19:08:40,521 : Bearbeite Aktions-ID <_edge_networkprediction_user>
+2022-01-17  19:08:40,521 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\NetworkPredictionOptions -> 2
+2022-01-17  19:08:40,521 : Bearbeite Aktions-ID <_edge_searchsuggest>
+2022-01-17  19:08:40,521 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SearchSuggestEnabled -> 0
+2022-01-17  19:08:40,521 : Bearbeite Aktions-ID <_edge_searchsuggest_user>
+2022-01-17  19:08:40,537 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SearchSuggestEnabled -> 0
+2022-01-17  19:08:40,537 : Bearbeite Aktions-ID <_edge_autofilladdress>
+2022-01-17  19:08:40,543 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AutofillAddressEnabled -> 0
+2022-01-17  19:08:40,543 : Bearbeite Aktions-ID <_edge_autofilladdress_user>
+2022-01-17  19:08:40,543 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AutofillAddressEnabled -> 0
+2022-01-17  19:08:40,543 : Bearbeite Aktions-ID <_edge_resolvenavigationerrors>
+2022-01-17  19:08:40,543 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\ResolveNavigationErrorsUseWebService -> 0
+2022-01-17  19:08:40,559 : Bearbeite Aktions-ID <_edge_resolvenavigationerrors_user>
+2022-01-17  19:08:40,559 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\ResolveNavigationErrorsUseWebService -> 0
+2022-01-17  19:08:40,559 : Bearbeite Aktions-ID <_edge_alternateerrorpages>
+2022-01-17  19:08:40,559 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AlternateErrorPagesEnabled -> 0
+2022-01-17  19:08:40,559 : Bearbeite Aktions-ID <_edge_alternateerrorpages_user>
+2022-01-17  19:08:40,574 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AlternateErrorPagesEnabled -> 0
+2022-01-17  19:08:40,574 : Bearbeite Aktions-ID <_edge_sendsiteinfo>
+2022-01-17  19:08:40,574 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SendSiteInfoToImproveServices -> 0
+2022-01-17  19:08:40,574 : Bearbeite Aktions-ID <_edge_sendsiteinfo_user>
+2022-01-17  19:08:40,574 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SendSiteInfoToImproveServices -> 0
+2022-01-17  19:08:40,590 : Bearbeite Aktions-ID <_edge_personalizationreporting>
+2022-01-17  19:08:40,590 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\PersonalizationReportingEnabled -> 0
+2022-01-17  19:08:40,590 : Bearbeite Aktions-ID <_edge_personalizationreporting_user>
+2022-01-17  19:08:40,590 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\PersonalizationReportingEnabled -> 0
+2022-01-17  19:08:40,590 : Bearbeite Aktions-ID <_edge_metricsreporting>
+2022-01-17  19:08:40,590 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\MetricsReportingEnabled -> 0
+2022-01-17  19:08:40,606 : Bearbeite Aktions-ID <_edge_metricsreporting_user>
+2022-01-17  19:08:40,606 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\MetricsReportingEnabled -> 0
+2022-01-17  19:08:40,606 : Bearbeite Aktions-ID <_edge_paymentmethodquery>
+2022-01-17  19:08:40,606 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\PaymentMethodQueryEnabled -> 0
+2022-01-17  19:08:40,621 : Bearbeite Aktions-ID <_edge_paymentmethodquery_user>
+2022-01-17  19:08:40,621 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\PaymentMethodQueryEnabled -> 0
+2022-01-17  19:08:40,621 : Bearbeite Aktions-ID <_edge_autofillcreditcard>
+2022-01-17  19:08:40,621 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AutofillCreditCardEnabled -> 0
+2022-01-17  19:08:40,621 : Bearbeite Aktions-ID <_edge_autofillcreditcard_user>
+2022-01-17  19:08:40,621 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AutofillCreditCardEnabled -> 0
+2022-01-17  19:08:40,637 : Bearbeite Aktions-ID <_edge_addressbarsearch>
+2022-01-17  19:08:40,637 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AddressBarMicrosoftSearchInBingProviderEnabled -> 0
+2022-01-17  19:08:40,643 : Bearbeite Aktions-ID <_edge_addressbarsearch_user>
+2022-01-17  19:08:40,643 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AddressBarMicrosoftSearchInBingProviderEnabled -> 0
+2022-01-17  19:08:40,643 : Bearbeite Aktions-ID <_edge_userfeedback>
+2022-01-17  19:08:40,643 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\UserFeedbackAllowed -> 0
+2022-01-17  19:08:40,659 : Bearbeite Aktions-ID <_edge_userfeedback_user>
+2022-01-17  19:08:40,659 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\UserFeedbackAllowed -> 0
+2022-01-17  19:08:40,659 : Bearbeite Aktions-ID <_edge_blockthirdpartycookies>
+2022-01-17  19:08:40,659 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\BlockThirdPartyCookies -> 1
+2022-01-17  19:08:40,659 : Bearbeite Aktions-ID <_edge_blockthirdpartycookies_user>
+2022-01-17  19:08:40,659 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\BlockThirdPartyCookies -> 1
+2022-01-17  19:08:40,675 : Bearbeite Aktions-ID <_edge_defaultgeolocationsetting>
+2022-01-17  19:08:40,675 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\DefaultGeolocationSetting -> 3
+2022-01-17  19:08:40,675 : Bearbeite Aktions-ID <_edge_defaultgeolocationsetting_user>
+2022-01-17  19:08:40,675 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\DefaultGeolocationSetting -> 3
+2022-01-17  19:08:40,690 : Bearbeite Aktions-ID <_donottrack_ie>
+2022-01-17  19:08:40,690 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\DoNotTrack -> 1
+2022-01-17  19:08:40,690 : Bearbeite Aktions-ID <_seitenvorhersage_ie>
+2022-01-17  19:08:40,690 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Suggested Sites\Enabled -> 0
+2022-01-17  19:08:40,690 : Bearbeite Aktions-ID <_vorschlaege_ie>
+2022-01-17  19:08:40,690 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\AllowServicePoweredQSA -> 0
+2022-01-17  19:08:40,706 : Bearbeite Aktions-ID <_kennwoerter_speichern_ie>
+2022-01-17  19:08:40,706 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\Use FormSuggest -> no
+2022-01-17  19:08:40,706 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FormSuggest PW Ask -> no
+2022-01-17  19:08:40,706 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IntelliForms\AskUser -> 0
+2022-01-17  19:08:40,706 : Bearbeite Aktions-ID <_autovervollstaendigen_ie>
+2022-01-17  19:08:40,706 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\ShowSearchSuggestionsInAddressGlobal -> 0
+2022-01-17  19:08:40,706 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\AutoComplete\Append Completion -> no
+2022-01-17  19:08:40,722 : Bearbeite Aktions-ID <_geolocation_ie>
+2022-01-17  19:08:40,722 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Geolocation\PolicyDisableGeolocation -> 1
+2022-01-17  19:08:40,722 : Bearbeite Aktions-ID <_updates_ie>
+2022-01-17  19:08:40,722 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Infodelivery\Restrictions\NoUpdateCheck -> 1
+2022-01-17  19:08:40,722 : Bearbeite Aktions-ID <_edge_symbol_in_ie_ausblenden>
+2022-01-17  19:08:40,737 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\HideNewEdgeButton -> 1
+2022-01-17  19:08:40,744 : Einstellung <_onedrive_uninstall> wird gesetzt und die Deinstallation über Schlüssel/Setup <C:\Users\nate\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\OneDriveSetup.exe  /uninstall > ausgeführt.
+2022-01-17  19:08:47,876 : Bearbeite Aktions-ID <_onedriveexplorer>
+2022-01-17  19:08:47,876 : Registrierungsschlüssel wird gesetzt HKCU64\SOFTWARE\Classes\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}\System.IsPinnedToNameSpaceTree -> 0
+2022-01-17  19:08:47,891 : Bearbeite Aktions-ID <_onedrivedeaktivieren>
+2022-01-17  19:08:47,891 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableLibrariesDefaultSaveToOneDrive -> 1
+2022-01-17  19:08:47,891 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableFileSync -> 1
+2022-01-17  19:08:47,891 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableMeteredNetworkFileSync -> 0
+2022-01-17  19:08:47,897 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableFileSyncNGSC -> 1
+2022-01-17  19:08:47,897 : Bearbeite Aktions-ID <_onedrive_for_business_deaktivieren>
+2022-01-17  19:08:47,897 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\OneDrive\DisablePersonalSync -> 1
+2022-01-17  19:08:47,897 : Bearbeite Aktions-ID <_notizdeaktivieren>
+2022-01-17  19:08:47,897 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\ActionCenter\Quick Actions\All\SystemSettings_Launcher_QuickNote\Type -> 0
+2022-01-17  19:08:47,913 : Aufgabe <Microsoft Compatibility Appraiser> wird nun deaktiviert!
+2022-01-17  19:08:48,002 : Aufgabe <ProgramDataUpdater> wird nun deaktiviert!
+2022-01-17  19:08:48,098 : Aufgabe <Proxy> wird nun deaktiviert!
+2022-01-17  19:08:48,198 : Aufgabe <Consolidator> wird nun deaktiviert!
+2022-01-17  19:08:48,276 : Aufgabe <UsbCeip> wird nun deaktiviert!
+2022-01-17  19:08:48,377 : Aufgabe <Microsoft-Windows-DiskDiagnosticDataCollector> wird nun deaktiviert!
+2022-01-17  19:08:48,477 : Aufgabe <DmClient> wird nun deaktiviert!
+2022-01-17  19:08:48,562 : Aufgabe <FamilySafetyMonitor> wird nun deaktiviert!
+2022-01-17  19:08:48,662 : Aufgabe <WinSAT> wird nun deaktiviert!
+2022-01-17  19:08:48,747 : Aufgabe <Office Automatic Updates> wird nun deaktiviert!
+2022-01-17  19:08:48,831 : Aufgabe <Office ClickToRun Service Monitor> wird nun deaktiviert!
+2022-01-17  19:08:48,931 : Aufgabe <Office Automatic Updates 2.0> wird nun deaktiviert!
+2022-01-17  19:08:49,032 : Aufgabe <Office Feature Updates> wird nun deaktiviert!
+2022-01-17  19:08:49,116 : Aufgabe <Office Feature Updates Logon> wird nun deaktiviert!
+2022-01-17  19:08:49,217 : Aufgabe <QueueReporting> wird nun deaktiviert!
+2022-01-17  19:08:49,301 : Aufgabe <Device> wird nun deaktiviert!
+2022-01-17  19:08:49,401 : Bearbeite Aktions-ID <_wu_kein_automatischer_neustart>
+2022-01-17  19:08:49,401 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings\UxOption -> 1
+2022-01-17  19:08:49,401 : Bearbeite Aktions-ID <_shutdown_apps>
+2022-01-17  19:08:49,401 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\System\AllowBlockingAppsAtShutdown -> 0
+2022-01-17  19:08:49,417 : Bearbeite Aktions-ID <_shutdown_not_responding>
+2022-01-17  19:08:49,417 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Control Panel\Desktop\AutoEndTasks -> 1
+2022-01-17  19:08:49,417 : Bearbeite Aktions-ID <_windows_spotlight>
+2022-01-17  19:08:49,417 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent\DisableWindowsSpotlightFeatures -> 1
+2022-01-17  19:08:49,417 : Bearbeite Aktions-ID <_privacy_settings_experience_on_user_logon>
+2022-01-17  19:08:49,417 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\OOBE\DisablePrivacyExperience -> 1
+2022-01-17  19:08:49,433 : Bearbeite Aktions-ID <_defender_notifications_about_scans_without_detections>
+2022-01-17  19:08:49,433 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows Defender Security Center\Virus and threat protection\SummaryNotificationDisabled -> 1
+2022-01-17  19:08:49,433 : Firewallregel <AccountsControl> wird hinzugefügt.
+2022-01-17  19:08:49,502 : Firewallregel <BioEnrollment> wird hinzugefügt.
+2022-01-17  19:08:49,564 : Firewallregel <LockApp> wird hinzugefügt.
+2022-01-17  19:08:49,633 : Firewallregel <XboxGame> wird hinzugefügt.
+2022-01-17  19:08:49,702 : Firewallregel <ParentalControls> wird hinzugefügt.
+2022-01-17  19:08:49,765 : Firewallregel <HostProcessWindowsTasks> wird hinzugefügt.
+2022-01-17  19:08:49,835 : Firewallregel <HostProcessSettingSynchronization> wird hinzugefügt.
+2022-01-17  19:08:49,903 : Firewallregel <CompatibilityTelemetry> wird hinzugefügt.
+2022-01-17  19:08:49,965 : Firewallregel <FeedbackSIUFDeployment> wird hinzugefügt.
+2022-01-17  19:08:50,034 : Firewallregel <FeedsSynchronization> wird hinzugefügt.
+2022-01-17  19:08:50,097 : Firewallregel <SIHClient> wird hinzugefügt.
+2022-01-17  19:08:50,166 : Firewallregel <ProblemReporting> wird hinzugefügt.
+2022-01-17  19:08:50,222 : Firewallregel <SQM-Konsolidator> wird hinzugefügt.
+2022-01-17  19:08:50,284 : Firewallregel <Device Census> wird hinzugefügt.
+2022-01-17  19:08:50,350 : Bearbeite Aktions-ID <_back_benutzer_bingweather>
+2022-01-17  19:08:50,350 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.BingWeather_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,366 : Bearbeite Aktions-ID <_back_benutzer_Getstarted>
+2022-01-17  19:08:50,366 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.Getstarted_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,366 : Bearbeite Aktions-ID <_back_benutzer_MicrosoftOfficeHub>
+2022-01-17  19:08:50,366 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,366 : Bearbeite Aktions-ID <_back_benutzer_MicrosoftSolitaireCollection>
+2022-01-17  19:08:50,366 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,382 : Bearbeite Aktions-ID <_back_benutzer_OfficeOneNote>
+2022-01-17  19:08:50,382 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.Office.OneNote_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,382 : Bearbeite Aktions-ID <_back_benutzer_People>
+2022-01-17  19:08:50,382 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.People_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,398 : Bearbeite Aktions-ID <_back_benutzer_SkypeApp>
+2022-01-17  19:08:50,398 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.SkypeApp_kzf8qxf38zg5c\DisabledByUser -> 1
+2022-01-17  19:08:50,398 : Bearbeite Aktions-ID <_back_benutzer_WindowsPhotos>
+2022-01-17  19:08:50,404 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.Windows.Photos_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,404 : Bearbeite Aktions-ID <_back_benutzer_WindowsAlarms>
+2022-01-17  19:08:50,404 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.WindowsAlarms_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,404 : Bearbeite Aktions-ID <_back_benutzer_WindowsCalculator>
+2022-01-17  19:08:50,404 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.WindowsCalculator_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,420 : Bearbeite Aktions-ID <_back_benutzer_windowscommunicationsapps>
+2022-01-17  19:08:50,420 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,420 : Bearbeite Aktions-ID <_back_benutzer_WindowsSoundRecorder>
+2022-01-17  19:08:50,420 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,435 : Bearbeite Aktions-ID <_back_benutzer_XboxApp>
+2022-01-17  19:08:50,435 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.XboxApp_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,435 : Bearbeite Aktions-ID <_back_benutzer_ZuneMusic>
+2022-01-17  19:08:50,435 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.ZuneMusic_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,435 : Bearbeite Aktions-ID <_back_benutzer_ZuneVideo>
+2022-01-17  19:08:50,435 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.ZuneVideo_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,451 : Bearbeite Aktions-ID <_back_benutzer_WindowsCamera>
+2022-01-17  19:08:50,451 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.WindowsCamera_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,451 : Bearbeite Aktions-ID <_back_benutzer_WindowsMaps>
+2022-01-17  19:08:50,451 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.WindowsMaps_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,451 : Bearbeite Aktions-ID <_back_benutzer_SkypeVideo>
+2022-01-17  19:08:50,467 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.Messaging_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,469 : Bearbeite Aktions-ID <_back_benutzer_Einstellungen>
+2022-01-17  19:08:50,469 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\windows.immersivecontrolpanel_cw5n1h2txyewy\DisabledByUser -> 1
+2022-01-17  19:08:50,469 : Bearbeite Aktions-ID <_back_benutzer_Feedback_Hub>
+2022-01-17  19:08:50,469 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,485 : Bearbeite Aktions-ID <_back_benutzer_Microsoft_Edge>
+2022-01-17  19:08:50,485 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,485 : Bearbeite Aktions-ID <_back_benutzer_Sticky_Notes>
+2022-01-17  19:08:50,485 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,485 : Bearbeite Aktions-ID <_back_benutzer_WLAN_und_Mobilfunkguthaben>
+2022-01-17  19:08:50,485 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.OneConnect_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,501 : Bearbeite Aktions-ID <_back_benutzer_MSPaint>
+2022-01-17  19:08:50,504 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.MSPaint_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,504 : Bearbeite Aktions-ID <_back_benutzer_3DViewer>
+2022-01-17  19:08:50,504 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.Microsoft3DViewer_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,504 : Bearbeite Aktions-ID <_back_benutzer_GetHelp>
+2022-01-17  19:08:50,504 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.GetHelp_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,520 : Bearbeite Aktions-ID <_back_benutzer_YourPhone>
+2022-01-17  19:08:50,520 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.YourPhone_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,520 : Bearbeite Aktions-ID <_back_benutzer_ScreenSketch>
+2022-01-17  19:08:50,520 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.ScreenSketch_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,520 : Bearbeite Aktions-ID <_back_benutzer_XboxGamingOverlay>
+2022-01-17  19:08:50,520 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\DisabledByUser -> 1
+2022-01-17  19:08:50,536 : Benutzer-App entfernen <Microsoft.BingWeather> (PackageName:Microsoft.BingWeather_4.46.32012.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:51,855 : Benutzer-App entfernen <Microsoft.Getstarted> (PackageName:Microsoft.Getstarted_10.2111.2.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:52,708 : Benutzer-App entfernen <Microsoft.MicrosoftOfficeHub> (PackageName:Microsoft.MicrosoftOfficeHub_18.2110.13110.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:53,647 : Benutzer-App entfernen <Microsoft.MicrosoftSolitaireCollection> (PackageName:Microsoft.MicrosoftSolitaireCollection_4.12.1050.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:54,489 : Benutzer-App entfernen <Microsoft.Office.OneNote> (PackageName:Microsoft.Office.OneNote_16001.14326.20674.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:55,433 : Benutzer-App entfernen <Microsoft.People> (PackageName:Microsoft.People_10.2105.4.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:56,317 : Benutzer-App entfernen <Microsoft.SkypeApp> (PackageName:Microsoft.SkypeApp_15.79.95.0_x86__kzf8qxf38zg5c)...
+2022-01-17  19:08:57,181 : Benutzer-App entfernen <Microsoft.Windows.Photos> (PackageName:Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:58,129 : Benutzer-App entfernen <Microsoft.WindowsAlarms> (PackageName:Microsoft.WindowsAlarms_10.2101.28.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:59,009 : Benutzer-App entfernen <microsoft.windowscommunicationsapps> (PackageName:microsoft.windowscommunicationsapps_16005.14326.20544.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:08:59,945 : Benutzer-App entfernen <Microsoft.WindowsSoundRecorder> (PackageName:Microsoft.WindowsSoundRecorder_10.2103.28.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:00,785 : Benutzer-App entfernen <Microsoft.XboxApp> (PackageName:Microsoft.XboxApp_48.78.15001.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:01,842 : Benutzer-App entfernen <Microsoft.ZuneMusic> (PackageName:Microsoft.ZuneMusic_10.21102.11411.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:02,710 : Benutzer-App entfernen <Microsoft.ZuneVideo> (PackageName:Microsoft.ZuneVideo_10.21111.10511.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:03,566 : Benutzer-App entfernen <Microsoft.WindowsCamera> (PackageName:Microsoft.WindowsCamera_2021.105.10.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:04,435 : Benutzer-App entfernen <Microsoft.WindowsMaps> (PackageName:Microsoft.WindowsMaps_10.2104.2.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:05,451 : Benutzer-App entfernen <Microsoft.Messaging> (PackageName:Microsoft.Messaging_4.1901.12761.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:06,332 : Benutzer-App entfernen <Microsoft.WindowsFeedbackHub> (PackageName:Microsoft.WindowsFeedbackHub_1.2111.3171.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:07,225 : Benutzer-App entfernen <Microsoft.OneConnect> (PackageName:Microsoft.OneConnect_5.2011.3081.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:08,183 : Benutzer-App entfernen <Microsoft.MSPaint> (PackageName:Microsoft.MSPaint_6.2105.4017.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:09,211 : Benutzer-App entfernen <Microsoft.MicrosoftStickyNotes> (PackageName:Microsoft.MicrosoftStickyNotes_4.2.2.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:10,135 : Benutzer-App entfernen <Microsoft.Microsoft3DViewer> (PackageName:Microsoft.Microsoft3DViewer_7.2107.7012.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:11,097 : Benutzer-App entfernen <Microsoft.Wallet> (PackageName:Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:11,929 : Benutzer-App entfernen <Microsoft.DesktopAppInstaller> (PackageName:Microsoft.DesktopAppInstaller_1.16.13405.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:12,843 : Benutzer-App entfernen <Microsoft.XboxIdentityProvider> (PackageName:Microsoft.XboxIdentityProvider_12.83.12001.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:13,702 : Benutzer-App entfernen <Microsoft.XboxSpeechToTextOverlay> (PackageName:Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:14,523 : Benutzer-App entfernen <Microsoft.YourPhone> (PackageName:Microsoft.YourPhone_1.21113.36.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:15,429 : Benutzer-App entfernen <Microsoft.GetHelp> (PackageName:Microsoft.GetHelp_10.2111.43421.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:16,326 : Benutzer-App entfernen <Microsoft.MixedReality.Portal> (PackageName:Microsoft.MixedReality.Portal_2000.21051.1282.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:17,214 : Benutzer-App entfernen <Microsoft.ScreenSketch> (PackageName:Microsoft.ScreenSketch_10.2008.2277.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:18,097 : Benutzer-App entfernen <Microsoft.XboxGamingOverlay> (PackageName:Microsoft.XboxGamingOverlay_5.721.12013.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:18,986 : Benutzer-App entfernen <Microsoft.XboxGameOverlay> (PackageName:Microsoft.XboxGameOverlay_1.54.4001.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:19,846 : Benutzer-App entfernen <Microsoft.Xbox.TCUI> (PackageName:Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:20,710 : Benutzer-App entfernen <Microsoft.549981C3F5F10> (PackageName:Microsoft.549981C3F5F10_3.2111.12605.0_x64__8wekyb3d8bbwe)...
+2022-01-17  19:09:23,673 : Ermittlung der Aufgaben wird gestartet ...
+2022-01-17  19:09:23,927 : Ermittlung der Aufgaben abgeschlossen.
+2022-01-17  19:09:23,927 : Ermittlung der Benutzer-Apps wird gestartet ...
+2022-01-17  19:09:29,688 : Ermittlung der Benutzer-Apps abgeschlossen.
+2022-01-17  19:09:29,688 : Ermittlung der Firewallregeln wird gestartet ...
+2022-01-17  19:09:29,904 : Ermittlung der Firewallregeln abgeschlossen.
+2022-01-17  19:09:45,581 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2022-01-17  19:09:46,101 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2022-01-17  19:10:38,754 : Bearbeite Aktions-ID <_positionserkennung_benutzer>
+2022-01-17  19:10:38,754 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{BFA794E4-F964-4FDB-90F6-51056BFE4B44}\Value -> Deny
+2022-01-17  19:10:38,754 : Bearbeite Aktions-ID <_zugriff_auf_Funktechnik>
+2022-01-17  19:10:38,770 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\radios\Value -> Allow
+2022-01-17  19:10:38,770 : Bearbeite Aktions-ID <_explorer_feeds_taskbar_user>
+2022-01-17  19:10:38,770 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Feeds\ShellFeedsTaskbarViewMode -> 2
+2022-01-17  19:10:40,874 : Ermittlung der Aufgaben wird gestartet ...
+2022-01-17  19:10:41,113 : Ermittlung der Aufgaben abgeschlossen.
+2022-01-17  19:10:41,113 : Ermittlung der Benutzer-Apps wird gestartet ...
+2022-01-17  19:10:46,859 : Ermittlung der Benutzer-Apps abgeschlossen.
+2022-01-17  19:10:46,859 : Ermittlung der Firewallregeln wird gestartet ...
+2022-01-17  19:10:47,059 : Ermittlung der Firewallregeln abgeschlossen.
+2022-01-17  19:11:02,598 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2022-01-17  19:11:03,114 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2022-01-17  19:11:08,341 : W10Privacy wird beendet.
