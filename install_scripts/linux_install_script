@@ -8,6 +8,8 @@ flatpak install flathub com.bitwarden.desktop org.videolan.VLC com.discordapp.Di
 
 sudo tlp start
 
+sudo rm -rf /etc/sudoers.d/0pwfeedback #to remove password feedback on distros like mint
+
 reboot
 
 
