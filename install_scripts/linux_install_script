@@ -4,7 +4,7 @@ sudo apt install ttf-mscorefonts-installer neofetch htop git flatpak gnome-softw
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-flatpak install flathub com.bitwarden.desktop org.videolan.VLC com.discordapp.Discord com.visualstudio.code com.slack.Slack com.spotify.Client org.gimp.GIMP com.sublimetext.three org.qbittorrent.qBittorrent com.obsproject.Studio org.libreoffice.LibreOffice com.valvesoftware.Steam us.zoom.Zoom 
+flatpak install flathub com.bitwarden.desktop org.videolan.VLC com.discordapp.Discord com.visualstudio.code com.slack.Slack com.spotify.Client org.gimp.GIMP com.sublimetext.three org.qbittorrent.qBittorrent com.obsproject.Studio org.libreoffice.LibreOffice com.valvesoftware.Steam us.zoom.Zoom -y
 
 sudo tlp start
 
