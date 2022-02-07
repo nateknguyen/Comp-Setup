@@ -17,10 +17,7 @@ brew install --cask plex
 brew install --cask transmission 
 brew install --cask authy 
 brew install --cask google-drive 
-brew install --cask virtualbox 
 brew install --cask signal 
-brew install --cask microsoft-office 
-brew install --cask microsoft-auto-update
 brew install --cask stats 
 brew install --cask hot
 brew install --cask hiddenbar
