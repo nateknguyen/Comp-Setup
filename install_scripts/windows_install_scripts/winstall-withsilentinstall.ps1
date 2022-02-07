@@ -18,4 +18,5 @@ winget install --id=Plex.Plex -e -h ;
 winget install --id=Twilio.Authy -e -h ; 
 winget install --id=SumatraPDF.SumatraPDF -e -h ; 
 winget install --id=Google.Drive -e -h ; 
+winget install --id=Klocman.BulkCrapUninstaller  -e -h ;
 winget install --id=OpenWhisperSystems.Signal -e -h
