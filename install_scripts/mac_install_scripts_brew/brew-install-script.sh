@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Homebrew Script to install Mac apps
-# To run: save script, chmod +x ./brew-install-script.sh then run it with ./brew-install-script.sh
+# To run: save script, chmod +x ./brew-install-script.sh then run it with ./brew-install-script.sh or sh brew-install-script.sh
 
 echo "Install apps"
 brew install --cask firefox 
