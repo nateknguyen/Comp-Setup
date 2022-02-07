@@ -3,7 +3,6 @@ winget install --id=Apple.iTunes -e -h ;
 winget install --id=VideoLAN.VLC -e -h ; 
 winget install --id=Valve.Steam -e -h ; 
 winget install --id=Discord.Discord -e -h ; 
-winget install --id=Microsoft.WindowsTerminal -e -h ; 
 winget install --id=GitHub.GitHubDesktop -e -h ; 
 winget install --id=Microsoft.VisualStudioCode -e -h ; 
 winget install --id=Microsoft.PowerToys -e -h ; 
