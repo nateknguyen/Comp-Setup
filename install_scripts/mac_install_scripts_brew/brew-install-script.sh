@@ -14,13 +14,10 @@ brew install --cask sublime-text
 brew install --cask thunderbird 
 brew install --cask bitwarden 
 brew install --cask plex 
-brew install --cask transmission 
 brew install --cask authy 
-brew install --cask google-drive 
 brew install --cask signal 
-brew install --cask stats 
-brew install --cask hot
-brew install --cask hiddenbar
+brew install --cask istat-menus
+brew install --cask bartender 
 brew install --cask github
 brew install --cask mos 
 brew install --cask rectangle
@@ -29,7 +26,6 @@ brew install --cask cryptomator
 brew install --cask qbittorrent 
 brew install --cask aldente
 brew install --cask appcleaner
-brew install --cask coconutbattery
 brew install --cask steam
 
 
