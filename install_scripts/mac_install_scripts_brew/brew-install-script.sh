@@ -27,8 +27,8 @@ brew install --cask qbittorrent
 brew install --cask aldente
 brew install --cask appcleaner
 brew install --cask steam
-
-
+brew install --cask eloston-chromium
+brew install --cask alt-tab
 
 brew install git 
 brew install python@3.10
