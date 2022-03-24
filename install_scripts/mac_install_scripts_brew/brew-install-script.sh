@@ -19,7 +19,7 @@ brew install --cask signal
 brew install --cask istat-menus
 brew install --cask bartender 
 brew install --cask github
-brew install --cask mos 
+brew install --cask unnaturalscrollwheels 
 brew install --cask rectangle
 brew install --cask iterm2 
 brew install --cask cryptomator
