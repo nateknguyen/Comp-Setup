@@ -36,3 +36,5 @@ brew install python@3.10
 echo "Export python to path after install"
 echo 'export PATH="/usr/local/opt/python@3.10/bin:$PATH"' >> ~/.zshrc
 export LDFLAGS="-L/usr/local/opt/python@3.10/lib"
+
+brew analytics off
