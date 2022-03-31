@@ -28,6 +28,7 @@ brew install --cask aldente
 brew install --cask appcleaner
 brew install --cask steam
 brew install --cask alt-tab
+brew insatll --cask discord
 
 brew install git 
 brew install python@3.10
