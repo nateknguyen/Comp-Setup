@@ -32,6 +32,7 @@ brew insatll --cask discord
 
 brew install git 
 brew install python@3.10
+brew install yt-dlp/taps/yt-dlp
 
 echo "Export python to path after install"
 echo 'export PATH="/usr/local/opt/python@3.10/bin:$PATH"' >> ~/.zshrc
