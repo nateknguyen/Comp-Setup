@@ -28,10 +28,12 @@ brew install --cask aldente
 brew install --cask appcleaner
 brew install --cask steam
 brew install --cask alt-tab
-brew insatll --cask discord
+brew install --cask discord
+brew install --cask slack
 
 brew install git 
-brew install python@3.10
+brew install python
+brew install node
 
 echo "Export python to path after install"
 echo 'export PATH="/usr/local/opt/python@3.10/bin:$PATH"' >> ~/.zshrc
