@@ -30,6 +30,7 @@ brew install --cask steam
 brew install --cask alt-tab
 brew install --cask discord
 brew install --cask slack
+brew install --cask zoom
 
 brew install git 
 brew install python
