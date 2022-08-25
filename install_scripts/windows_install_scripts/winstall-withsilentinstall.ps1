@@ -17,5 +17,5 @@ winget install --id=SumatraPDF.SumatraPDF -e  ;
 winget install --id=REALiX.HWiNFO  -e ;
 winget install --id=OpenWhisperSystems.Signal -e  ;
 winget install --id=Synology.DriveClient -e ;
-winget install --id=qBittorrent.qBittorrent -e ; 
-winget install --id=WindscribeLimited.Windscribe -e ;
+winget install --id=qBittorrent.qBittorrent -e ;
+winget install --id=WindscribeLimited.Windscribe  -e ;
