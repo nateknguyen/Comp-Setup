@@ -36,7 +36,7 @@ brew install git
 brew install python
 brew install node
 brew install python@3.10
-brew install yt-dlp/taps/yt-dlp
+brew install yt-dlp
 
 echo "Export python to path after install"
 echo 'export PATH="/usr/local/opt/python@3.10/bin:$PATH"' >> ~/.zshrc
