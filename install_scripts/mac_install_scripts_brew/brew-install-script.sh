@@ -30,7 +30,9 @@ brew install --cask alt-tab
 brew install --cask discord
 brew install --cask slack
 brew install --cask zoom
-brew install --cask onlyoffice
+brew install --cask mullvadvpn
+brew install --cask libreoffice
+brew install --cask calibre
 
 brew install git 
 brew install python
