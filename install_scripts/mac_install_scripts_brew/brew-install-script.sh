@@ -17,7 +17,6 @@ brew install --cask plex
 brew install --cask authy 
 brew install --cask signal 
 brew install --cask istat-menus
-brew install --cask bartender 
 brew install --cask github
 brew install --cask unnaturalscrollwheels 
 brew install --cask rectangle
@@ -31,6 +30,7 @@ brew install --cask alt-tab
 brew install --cask discord
 brew install --cask slack
 brew install --cask zoom
+brew install --cask onlyoffice
 
 brew install git 
 brew install python
