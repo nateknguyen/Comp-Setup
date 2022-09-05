@@ -36,6 +36,7 @@ brew install --cask calibre
 brew install --cask orion
 brew install --cask hiddenbar
 #install notesnook seperate
+brew install --cask cryptomator
 
 brew install git 
 brew install python
