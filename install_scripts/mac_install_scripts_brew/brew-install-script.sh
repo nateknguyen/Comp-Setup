@@ -44,3 +44,6 @@ brew install node
 brew install yt-dlp
 
 brew analytics off
+
+#install notesnook/apollo/deliveries
+#overcast/pocketcasts/notability from app store
