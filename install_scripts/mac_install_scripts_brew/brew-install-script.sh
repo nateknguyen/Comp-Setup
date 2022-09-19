@@ -35,7 +35,7 @@ brew install --cask libreoffice
 brew install --cask calibre
 brew install --cask orion
 brew install --cask hiddenbar
-#install notesnook seperate
+brew install --cask notesnook
 brew install --cask cryptomator
 
 brew install git 
@@ -45,5 +45,4 @@ brew install yt-dlp
 
 brew analytics off
 
-#install notesnook/apollo/deliveries
-#overcast/pocketcasts/notability from app store
+#install apollo/deliveries overcast/pocketcasts/notability from app store
