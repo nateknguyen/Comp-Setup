@@ -29,7 +29,6 @@ brew install --cask steam
 brew install --cask alt-tab
 brew install --cask discord
 brew install --cask slack
-brew install --cask mullvadvpn
 brew install --cask libreoffice
 brew install --cask calibre
 brew install --cask orion
@@ -42,8 +41,9 @@ brew install python
 brew install node
 brew install yt-dlp
 
+brew install --cask mullvadvpn
 brew install --cask zoom
 
 brew analytics off
 
-#install apollo/deliveries overcast/pocketcasts/notability from app store
+#install apollo/deliveries overcast/notability/timetable from app store
