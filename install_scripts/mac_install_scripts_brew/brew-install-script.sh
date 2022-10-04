@@ -43,6 +43,9 @@ brew install yt-dlp
 brew install --cask mullvadvpn
 brew install --cask zoom
 
+brew tap microsoft/git
+brew install --cask git-credential-manager-core
+
 brew analytics off
 
-#install apollo/deliveries/overcast/notability/timetable from app store
+#install apollo/deliveries/overcast/notability/timetable/expenses from app store
