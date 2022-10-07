@@ -40,8 +40,6 @@ brew install python
 brew install node
 brew install yt-dlp
 
-brew install --cask mullvadvpn
-brew install --cask zoom
 
 brew tap microsoft/git
 brew install --cask git-credential-manager-core
