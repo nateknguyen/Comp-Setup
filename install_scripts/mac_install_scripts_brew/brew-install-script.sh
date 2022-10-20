@@ -34,6 +34,9 @@ brew install --cask orion
 brew install --cask hiddenbar
 brew install --cask notesnook
 brew install --cask cryptomator
+brew install --cask duckduckgo
+brew install --cask latest 
+brew install --cask protonvpn
 
 brew install git 
 brew install python
@@ -43,7 +46,8 @@ brew install yt-dlp
 
 brew tap microsoft/git
 brew install --cask git-credential-manager-core
+brew install zoom
 
 brew analytics off
 
-#install apollo/deliveries/overcast/notability/timetable/expenses from app store
+echo install apollo/deliveries/overcast/notability/timetable/expenses/xcode from app store
