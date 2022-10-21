@@ -37,6 +37,7 @@ brew install --cask cryptomator
 brew install --cask duckduckgo
 brew install --cask latest 
 brew install --cask protonvpn
+brew install --cask pocket-casts
 
 brew install git 
 brew install python
