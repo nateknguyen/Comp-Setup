@@ -3,6 +3,14 @@
 # Homebrew Script to install Mac apps
 # To run: save script, chmod +x ./brew-install-script.sh then run it with ./brew-install-script.sh or sh brew-install-script.sh
 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+    echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/nate/.zprofile
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/nate/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+
+#Add brew to path for Nate user
+
 echo "Install apps"
 brew install --cask firefox 
 brew install --cask brave-browser
