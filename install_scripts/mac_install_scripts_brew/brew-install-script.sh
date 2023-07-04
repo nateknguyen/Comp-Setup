@@ -39,24 +39,17 @@ brew install --cask discord
 brew install --cask slack
 brew install --cask calibre
 brew install --cask orion
-brew install --cask hiddenbar
 brew install --cask notesnook
-brew install --cask cryptomator
 brew install --cask duckduckgo
 brew install --cask latest 
-brew install --cask protonvpn
-brew install --cask pocket-casts
 brew install --cask mouse-fix
 
 brew install git 
 brew install python
-brew install node
 brew install yt-dlp
-
 
 brew tap microsoft/git
 brew install --cask git-credential-manager-core
-brew install zoom
 
 brew analytics off
 
