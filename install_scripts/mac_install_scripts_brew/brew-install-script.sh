@@ -22,11 +22,8 @@ brew install --cask sublime-text
 brew install --cask thunderbird 
 brew install --cask bitwarden 
 brew install --cask plex 
-brew install --cask authy 
-brew install --cask signal 
 brew install --cask istat-menus
 brew install --cask github
-brew install --cask unnaturalscrollwheels 
 brew install --cask rectangle
 brew install --cask iterm2 
 brew install --cask cryptomator
@@ -36,13 +33,9 @@ brew install --cask appcleaner
 brew install --cask steam
 brew install --cask alt-tab
 brew install --cask discord
-brew install --cask slack
 brew install --cask calibre
-brew install --cask orion
-brew install --cask notesnook
 brew install --cask duckduckgo
 brew install --cask latest 
-brew install --cask mouse-fix
 
 brew install git 
 brew install python
