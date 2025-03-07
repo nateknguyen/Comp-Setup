@@ -33,9 +33,9 @@ brew install --cask appcleaner
 brew install --cask steam
 brew install --cask alt-tab
 brew install --cask discord
-brew install --cask calibre
 brew install --cask duckduckgo
 brew install --cask latest 
+brew install --cask linearmouse
 
 brew install git 
 brew install python
