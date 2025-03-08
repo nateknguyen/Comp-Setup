@@ -17,15 +17,12 @@ brew install --cask brave-browser
 brew install --cask spotify 
 brew install --cask visual-studio-code 
 brew install --cask vlc 
-brew install --cask standard-notes 
 brew install --cask sublime-text 
-brew install --cask thunderbird 
 brew install --cask bitwarden 
 brew install --cask plex 
 brew install --cask istat-menus
 brew install --cask github
 brew install --cask rectangle
-brew install --cask iterm2 
 brew install --cask cryptomator
 brew install --cask qbittorrent 
 brew install --cask aldente
@@ -40,9 +37,6 @@ brew install --cask linearmouse
 brew install git 
 brew install python
 brew install yt-dlp
-
-brew tap microsoft/git
-brew install --cask git-credential-manager-core
 
 brew analytics off
 
