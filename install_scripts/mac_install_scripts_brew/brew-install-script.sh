@@ -15,7 +15,8 @@ echo "Install apps"
 brew install --cask firefox 
 brew install --cask brave-browser
 brew install --cask spotify 
-brew install --cask visual-studio-code 
+brew install --cask vscodium 
+brew install --cask openmtp
 brew install --cask vlc 
 brew install --cask sublime-text 
 brew install --cask bitwarden 
@@ -33,6 +34,7 @@ brew install --cask discord
 brew install --cask duckduckgo
 brew install --cask latest 
 brew install --cask linearmouse
+brew install --cask keka
 
 brew install git 
 brew install python
