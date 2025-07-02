@@ -1,1 +1,1 @@
-choco install protonvpn vlc windirstat steam brave plex firefox spotify hwinfo qbittorrent discord
+choco install protonvpn vlc windirstat steam brave plex firefox spotify hwinfo qbittorrent discord -y
