@@ -33,10 +33,11 @@ brew install --cask discord
 brew install --cask calibre
 brew install --cask ente
 brew install --cask duckduckgo
-brew install --cask latest 
+brew install --cask keka
 
 brew install yt-dlp
 
 brew analytics off
 
 echo install apollo/deliveries/overcast/notability/timetable/expenses/xcode from app store
+echo install ice from github beta when using mac os tahoe
