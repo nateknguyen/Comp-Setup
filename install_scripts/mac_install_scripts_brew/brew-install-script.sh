@@ -34,6 +34,7 @@ brew install --cask calibre
 brew install --cask ente
 brew install --cask duckduckgo
 brew install --cask keka
+brew install --cask syncthing-app
 
 brew install yt-dlp
 
