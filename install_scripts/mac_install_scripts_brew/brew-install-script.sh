@@ -31,10 +31,11 @@ brew install --cask steam
 brew install --cask alt-tab
 brew install --cask discord
 brew install --cask calibre
-brew install --cask ente
 brew install --cask duckduckgo
 brew install --cask keka
 brew install --cask syncthing-app
+brew install --cask ente-auth
+brew install --cask protonvpn
 
 brew install yt-dlp
 
