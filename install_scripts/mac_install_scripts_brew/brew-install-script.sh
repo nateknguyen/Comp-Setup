@@ -36,10 +36,11 @@ brew install --cask keka
 brew install --cask syncthing-app
 brew install --cask ente-auth
 brew install --cask protonvpn
+brew install --cask proton-drive
 
 brew install yt-dlp
 
 brew analytics off
 
-echo install apollo/deliveries/overcast/expenses/xcode/neptunes from app store
+echo install deliveries/overcast/xcode/neptunes from app store
 echo install ice from github beta when using mac os tahoe
