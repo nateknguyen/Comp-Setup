@@ -40,5 +40,5 @@ brew install yt-dlp
 
 brew analytics off
 
-echo install apollo/deliveries/overcast/notability/timetable/expenses/xcode from app store
+echo install apollo/deliveries/overcast/expenses/xcode/neptunes from app store
 echo install ice from github beta when using mac os tahoe
