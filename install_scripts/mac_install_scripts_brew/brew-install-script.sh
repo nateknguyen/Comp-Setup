@@ -37,6 +37,7 @@ brew install --cask syncthing-app
 brew install --cask ente-auth
 brew install --cask protonvpn
 brew install --cask proton-drive
+brew install --cask libreoffice
 
 brew install yt-dlp
 
